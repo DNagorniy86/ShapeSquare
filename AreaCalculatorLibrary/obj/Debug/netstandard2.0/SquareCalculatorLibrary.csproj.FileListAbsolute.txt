@@ -1,0 +1,8 @@
+C:\Users\D.Nagorniy\source\repos\AreaCalculatorLibrary\AreaCalculatorLibrary\bin\Debug\netstandard2.0\SquareCalculatorLibrary.deps.json
+C:\Users\D.Nagorniy\source\repos\AreaCalculatorLibrary\AreaCalculatorLibrary\bin\Debug\netstandard2.0\SquareCalculatorLibrary.dll
+C:\Users\D.Nagorniy\source\repos\AreaCalculatorLibrary\AreaCalculatorLibrary\bin\Debug\netstandard2.0\SquareCalculatorLibrary.pdb
+C:\Users\D.Nagorniy\source\repos\AreaCalculatorLibrary\AreaCalculatorLibrary\obj\Debug\netstandard2.0\SquareCalculatorLibrary.csprojAssemblyReference.cache
+C:\Users\D.Nagorniy\source\repos\AreaCalculatorLibrary\AreaCalculatorLibrary\obj\Debug\netstandard2.0\SquareCalculatorLibrary.AssemblyInfoInputs.cache
+C:\Users\D.Nagorniy\source\repos\AreaCalculatorLibrary\AreaCalculatorLibrary\obj\Debug\netstandard2.0\SquareCalculatorLibrary.AssemblyInfo.cs
+C:\Users\D.Nagorniy\source\repos\AreaCalculatorLibrary\AreaCalculatorLibrary\obj\Debug\netstandard2.0\SquareCalculatorLibrary.dll
+C:\Users\D.Nagorniy\source\repos\AreaCalculatorLibrary\AreaCalculatorLibrary\obj\Debug\netstandard2.0\SquareCalculatorLibrary.pdb
